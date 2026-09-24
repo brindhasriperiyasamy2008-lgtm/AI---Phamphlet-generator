@@ -61,4 +61,15 @@ Explain the important folders and files here.
 ```bash
 git clone <your-repository-link>
 cd AI-Pamphlet-Generator
-pip install -r requirements.txt
+pip install -r requirements.txt## 📸 Project Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Generated Pamphlet
+![Generated Pamphlet](generated_pamphlet.png)
+
+### Final Output
+![Final Output](final_output.png)
+
+
